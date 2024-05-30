@@ -1,7 +1,7 @@
 # Rodrigo Lima
 ### Desenvolvedor Fullstack
 
-Como desenvolvedor web, crio soluções personalizadas para diversos setores. Desde o início da minha carreira, tive a oportunidade de trabalhar com uma variedade de stacks. Essa diversidade de experiências me proporcionou uma visão abrangente e a capacidade de me adaptar facilmente a novos ambientes e tecnologias.
+Olá, sou desenvolvedor web e crio soluções personalizadas para diversos setores. Desde o início da minha carreira, tive a oportunidade de trabalhar com uma variedade de stacks. Essa diversidade de experiências me proporcionou uma visão abrangente e a capacidade de me adaptar facilmente a novos ambientes e tecnologias.
 
 ## Technologies Used
 
